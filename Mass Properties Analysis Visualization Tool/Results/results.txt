@@ -1,0 +1,17 @@
+Distance from nose to 30% MAC: 20.326 ft
+
+% [Empty, Fuel, Retardant, Full ]
+
+Distance of airplane CG from airplane nose (ft):
+
+   [20.158   20.526   20.241   20.441]
+
+Above in % MAC:
+
+   [0.28486   0.31809   0.29232   0.31036]
+
+Amount of weight taken by nose landing gear:
+
+   [0.11811   0.10023   0.11409   0.10439]
+
+Fuselage Length: 43.614 ft

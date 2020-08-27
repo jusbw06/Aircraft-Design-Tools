@@ -1,0 +1,59 @@
+------------ Minimum Point ----------------
+
+Num Consec Trips: 5
+Weight Payload: 12239.3333
+Weight Fuel: 1731.3002
+Total: 13970.6335
+
+-------------------------------------------
+Num Consec Trips: 1
+Weight Payload: 16690
+Weight Fuel: 791.2918
+Total: 17481.2918
+
+Num Consec Trips: 2
+Weight Payload: 13908.3333
+Weight Fuel: 999.1432
+Total: 14907.4765
+
+Num Consec Trips: 3
+Weight Payload: 12981.1111
+Weight Fuel: 1235.5853
+Total: 14216.6964
+
+Num Consec Trips: 4
+Weight Payload: 12517.5
+Weight Fuel: 1480.9434
+Total: 13998.4434
+
+Num Consec Trips: 5
+Weight Payload: 12239.3333
+Weight Fuel: 1731.3002
+Total: 13970.6335
+
+Num Consec Trips: 6
+Weight Payload: 12053.8889
+Weight Fuel: 1985.3649
+Total: 14039.2538
+
+Num Consec Trips: 7
+Weight Payload: 11921.4286
+Weight Fuel: 2242.5974
+Total: 14164.026
+
+Num Consec Trips: 8
+Weight Payload: 11822.0833
+Weight Fuel: 2502.739
+Total: 14324.8223
+
+Num Consec Trips: 9
+Weight Payload: 11744.8148
+Weight Fuel: 2765.6564
+Total: 14510.4712
+
+Num Consec Trips: 10
+Weight Payload: 11683
+Weight Fuel: 3031.279
+Total: 14714.279
+
+Total Iterations: 24622
